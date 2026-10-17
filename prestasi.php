@@ -276,14 +276,12 @@ require_once __DIR__ . '/config/database.php';
                         <a class="nav-link dropdown-toggle" href="#" id="kegiatanDropdown" role="button" data-bs-toggle="dropdown">Kegiatan & Agenda</a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="jadwal-latihan.php"><i class="fa-solid fa-clock me-2"></i>Jadwal Latihan</a></li>
-                            <li><a class="dropdown-item" href="berita.php"><i class="fa-solid fa-newspaper me-2"></i>Berita</a></li>
                             <li><a class="dropdown-item" href="dokumentasi.php"><i class="fa-solid fa-images me-2"></i>Galeri Foto & Video</a></li>
                         </ul>
                     </li>
 
+                    <li class="nav-item"><a class="nav-link" href="berita.php">Berita</a></li>
                     <li class="nav-item"><a class="nav-link" href="materi.php">Materi</a></li>
-                    <li class="nav-item ms-lg-2 my-2 my-lg-0"><a class="btn btn-accent btn-sm px-3 shadow-none" href="pendaftaran.php"><i class="fa-solid fa-user-plus me-1"></i> Pendaftaran</a></li>
-                    <li class="nav-item"><a class="nav-link" href="kontak.php">Kontak</a></li>
                     <li class="nav-item ms-lg-2 my-2 my-lg-0"><a class="btn btn-accent btn-sm px-3 shadow-none" href="pendaftaran.php"><i class="fa-solid fa-user-plus me-1"></i> Pendaftaran</a></li>
                     <li class="nav-item"><a class="nav-link" href="kontak.php">Kontak</a></li>
                 </ul>

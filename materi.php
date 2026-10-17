@@ -336,7 +336,6 @@ require_once __DIR__ . '/config/database.php';
                         </a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="jadwal-latihan.php"><i class="fa-solid fa-clock me-2"></i>Jadwal Latihan</a></li>
-                            <li><a class="dropdown-item" href="berita.php"><i class="fa-solid fa-newspaper me-2"></i>Berita</a></li>
                             <li><a class="dropdown-item" href="dokumentasi.php"><i class="fa-solid fa-images me-2"></i>Galeri Foto & Video</a></li>
                         </ul>
                     </li>
